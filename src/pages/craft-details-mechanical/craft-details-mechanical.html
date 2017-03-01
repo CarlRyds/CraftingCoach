@@ -1,0 +1,118 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>{{items.name}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content class="craft-details-mechanical">
+
+<ion-card>
+  <img src="assets/img/top/{{items.image}}.png"/>
+  <ion-card-content>
+    <ion-card-title>
+      {{items.name}}
+      </ion-card-title>
+    <p>
+      {{items.disc}}
+    </p>
+  </ion-card-content>
+</ion-card>
+
+
+
+<ion-card padding>
+
+  <ion-segment [(ngModel)]="state">
+    <ion-segment-button value="craft">Crafting</ion-segment-button>
+    <ion-segment-button value="info">Information</ion-segment-button>
+  </ion-segment>
+
+<div [ngSwitch]="state" style="padding-top:20px;">
+
+  <div *ngSwitchCase="'craft'">
+
+      <ion-item>
+        <img src="assets/img/craft/{{items.image}}.png">
+      </ion-item>
+      
+    <ion-card-header>Output</ion-card-header>
+  
+    <ion-item>
+        <ion-thumbnail item-left>
+          <img src="assets/img/items/{{items.image}}.png">
+        </ion-thumbnail>
+          <h1>1x {{items.name}}</h1>
+    </ion-item>
+    
+  </div>
+  
+  <div *ngSwitchCase="'info'">
+  
+    <ion-list>
+
+      <ion-item>
+          Added
+        <ion-note style="color:black;" item-right>
+          {{items.information.added}}
+        </ion-note>
+      </ion-item>
+
+      <ion-item>
+          Transparency
+        <ion-note style="color:black;" item-right>
+          {{items.information.transparency}}
+        </ion-note>
+      </ion-item>
+
+      <ion-item>
+          Luminance
+        <ion-note style="color:black;" item-right>
+          {{items.information.luminance}}
+        </ion-note>
+      </ion-item>
+      
+      <ion-item>
+          Renewable
+        <ion-note style="color:black;" item-right>
+          {{items.information.renewable}}
+        </ion-note>
+      </ion-item>
+
+      <ion-item>
+          Stackable
+        <ion-note style="color:black;" item-right>
+          {{items.information.stackable}}
+        </ion-note>
+      </ion-item>
+    
+    <ion-item>
+        Flammable
+      <ion-note style="color:black;" item-right>
+        {{items.information.flammable}}
+      </ion-note>
+    </ion-item>
+
+    <ion-item>
+        Blast resistance	
+      <ion-note style="color:black;" item-right>
+        {{items.information.blast}}
+      </ion-note>
+    </ion-item>
+
+    <ion-item>
+        Tool
+      <ion-note style="color:black;" item-right>
+        {{items.information.tool}}
+      </ion-note>
+    </ion-item>
+    
+  </ion-list>
+    
+</div>
+
+</div>
+
+</ion-card>
+
+</ion-content>

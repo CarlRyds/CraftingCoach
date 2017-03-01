@@ -1,0 +1,512 @@
+﻿{
+    "results":[
+
+    {
+        "id":"1",
+        "name":"Axe",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Chop down a tree with ease",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Axes are tools used to ease the process of collecting wood based items. Including cutting down trees or breaking wooden planks, crafting tables, woodern stairs, etc. Enchantments can be added to an Axe.",
+        "crafting":{
+                "input1":"2x Stick",
+                "extra1":"Crafted from two planks",
+                "input2":"3x Wood Planks",
+                "extra2":"Can be mined from a cave",
+                "input3":"or 3x Cobblestone",
+                "extra3":"Can be mined from a cave",
+                "input4":"or 3x Iron Ingots",
+                "extra4":"Can be mined from a cave",
+                "input5":"or 3x Gold Ingots",
+                "extra5":"Can be mined from a cave",
+                "input6":"or 3x Diamonds",
+                "extra6":"Can be mined from a cave",
+                "output":"1x Axe"
+        },
+        "information":{
+                "added":"0.31",
+                "renewable":"Yes",
+                "stackable":"No",
+                "durability1":"Wood: 60 uses",
+                "durability2":"Stone: 132 uses",
+                "durability3":"Iron: 251 uses",
+                "durability4":"Gold: 33 uses",
+                "durability5":"Diamond: 1562 uses"
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"1_axe"
+    },
+
+        {
+        "id":"2",
+        "name":"Shovel",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Break dirt, sand and gravel",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Shovels are tools used to collect dirt and other blocks. Including Grass Block, Podzol, Farmland, Sand, Gravel, Clay, Snow and Soul Sand. Enchantments can be added to a Shovel. Right click grass to make Podzol.",
+        "crafting":{
+                "input1":"2x Stick",
+                "extra1":"Crafted from two planks",
+                "input2":"1x Wood Planks",
+                "extra2":"Can be mined from a cave",
+                "input3":"or 1x Cobblestone",
+                "extra3":"Can be mined from a cave",
+                "input4":"or 1x Iron Ingots",
+                "extra4":"Can be mined from a cave",
+                "input5":"or 1x Gold Ingots",
+                "extra5":"Can be mined from a cave",
+                "input6":"or 1x Diamonds",
+                "extra6":"Can be mined from a cave",
+                "output":"1x Shovel"
+        },
+        "information":{
+                "added":"0.31",
+                "renewable":"Diamond: No, Others: Yes",
+                "stackable":"No",
+                "durability1":"Wood: 60 uses",
+                "durability2":"Stone: 132 uses",
+                "durability3":"Iron: 251 uses",
+                "durability4":"Gold: 33 uses",
+                "durability5":"Diamond: 1562 uses" 
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"2_shovel"
+    },
+
+        {
+        "id":"3",
+        "name":"Pickaxe",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Mine stone, ores and coal",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Pickaxe is one of the most commonly used tools in the game, it is a tool used to ease the process of mining stone and other blocks. Including Coal Ore, Iron Ore, Gold Ore, Diamond Ore and more. Enchantments can be added to a Pickaxe.",
+        "crafting":{
+                "input1":"2x Stick",
+                "extra1":"Crafted from two planks",
+                "input2":"3x Wood Planks",
+                "extra2":"Can be mined from a cave",
+                "input3":"or 3x Cobblestone",
+                "extra3":"Can be mined from a cave",
+                "input4":"or 3x Iron Ingots",
+                "extra4":"Can be mined from a cave",
+                "input5":"or 3x Gold Ingots",
+                "extra5":"Can be mined from a cave",
+                "input6":"or 3x Diamonds",
+                "extra6":"Can be mined from a cave",
+                "output":"1x Pickaxe"
+        },
+        "information":{
+                "added":"0.31",
+                "renewable":"Yes",
+                "stackable":"No",
+                "durability1":"Wood: 60 uses",
+                "durability2":"Stone: 132 uses",
+                "durability3":"Iron: 251 uses",
+                "durability4":"Gold: 33 uses",
+                "durability5":"Diamond: 1562 uses"   
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"3_pickaxe"
+    },
+
+        {
+        "id":"4",
+        "name":"Hoe",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Makes grass into farmland",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"A Hoe is a tool used to till dirt and grass blocks into farmland blocks (right-click). Enchantments can be added to a Hoe. Including Unbreaking, Mending and Curse of Vanishing.",
+        "crafting":{
+                "input1":"2x Stick",
+                "extra1":"Crafted from two planks",
+                "input2":"2x Wood Planks",
+                "extra2":"Can be mined from a cave",
+                "input3":"or 2x Cobblestone",
+                "extra3":"Can be mined from a cave",
+                "input4":"or 2x Iron Ingots",
+                "extra4":"Can be mined from a cave",
+                "input5":"or 2x Gold Ingots",
+                "extra5":"Can be mined from a cave",
+                "input6":"or 2x Diamonds",
+                "extra6":"Can be mined from a cave",
+                "output":"1x Hoe"
+        },
+        "information":{
+                "added":"Indev",
+                "renewable":"Diamond: No, Others: Yes",
+                "stackable":"No",
+                "durability1":"Wood: 60 uses",
+                "durability2":"Stone: 132 uses",
+                "durability3":"Iron: 251 uses",
+                "durability4":"Gold: 33 uses",
+                "durability5":"Diamond: 1562 uses"  
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"4_hoe"
+    },
+
+        {
+        "id":"5",
+        "name":"Shears",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Used primarily to shear sheep",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Shears are a tool used primarily to shear sheep and mine a few types of blocks. Includng Wool from Sheep, Cobwebs, Dead Bush, Fern, Grass, Leaves, Tripwire, Vines, Mooshroom and Snow golems.",
+        "crafting":{
+                "input1":"2x Iron Ingots",
+                "extra1":"Mined from a cave, then smelted",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "input6":"",
+                "extra6":"",
+                "output":"1x Shears"
+        },
+        "information":{
+                "added":"Beta",
+                "renewable":"Yes",
+                "stackable":"No",
+                "durability1":"238 uses",
+                "durability2":"",
+                "durability3":"",
+                "durability4":"",
+                "durability5":""   
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"5_shears"
+    },
+
+        {
+        "id":"6",
+        "name":"Bucket",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Carry water, lava, or milk",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Buckets are tools used to carry water, lava, or milk.",
+        "crafting":{
+                "input1":"3x Iron Ingots",
+                "extra1":"Mined from a cave, then smelted",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "input6":"",
+                "extra6":"",
+                "output":"1x Bucket"
+        },
+        "information":{
+                "added":"Indev",
+                "renewable":"Yes",
+                "stackable":"Yes (16)",
+                "durability1":"N/A",
+                "durability2":"",
+                "durability3":"",
+                "durability4":"",
+                "durability5":""      
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"6_bucket"
+    },
+
+        {
+        "id":"7",
+        "name":"Boat",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Travel across water in style",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"A boat is both an item and a vehicle entity. It is useful for traveling across water. Boats can be made out of most wood types. Including Oak, Spruce, Birch, Jungle, Acacial and Dark Oak.",
+        "crafting":{
+                "input1":"5x Wood Planks",
+                "extra1":"Can use any type of wood",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "input6":"",
+                "extra6":"",
+                "output":"1x Boat"
+        },
+        "information":{
+                "added":"Alpha",
+                "renewable":"Yes",
+                "stackable":"No",
+                "durability1":"N/A",
+                "durability2":"",
+                "durability3":"",
+                "durability4":"",
+                "durability5":""  
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"7_boat"
+    },
+
+        {
+        "id":"8",
+        "name":"Fishing Rod",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Catch fish from water",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Fishing rods are tools that are mainly used for obtaining fish. Enchantments can be added to a Fishing Rod. Including Lure, Luck of the Sea, Unbreaking, Mending and Curse of Vanishing.",
+        "crafting":{
+                "input1":"2x Sticks",
+                "extra1":"Crafted from two planks",
+                "input2":"2x String",
+                "extra2":"Dropped by Spiders",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "input6":"",
+                "extra6":"",
+                "output":"1x Fishing Rod"
+        },
+        "information":{
+                "added":"Alpha",
+                "renewable":"Yes",
+                "stackable":"No",
+                "durability1":"65 uses",
+                "durability2":"",
+                "durability3":"",
+                "durability4":"",
+                "durability5":""    
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"8_fish"
+    },
+
+        {
+        "id":"9",
+        "name":"Flint and Steel",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Used to light fires",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"The flint and steel is a tool used to light fires. Can be used to light a nether portal, set nether rack on fire or detonate TNT. Enchantments can be added to Flint and Steel. Including Unbreaking, Mending and Curse of Vanishing.",
+        "crafting":{
+                "input1":"1x Iron Ingots",
+                "extra1":"Mined from a cave, then smelted",
+                "input2":"1x Flint",
+                "extra2":"Obtained from gravel",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "input6":"",
+                "extra6":"",
+                "output":"1x Flint and Steel"
+        },
+        "information":{
+                "added":"Indev",
+                "renewable":"No",
+                "stackable":"No",
+                "durability1":"65 uses",
+                "durability2":"",
+                "durability3":"",
+                "durability4":"",
+                "durability5":""  
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"9_flint"
+    },
+
+        {
+        "id":"10",
+        "name":"Compass",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Easily find the world spawn",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Compasses are an item used to point to the world spawn.",
+        "crafting":{
+                "input1":"4x Iron Ingots",
+                "extra1":"Mined from a cave, then smelted",
+                "input2":"1x Redstone Dust",
+                "extra2":"Mined from a cave",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "input6":"",
+                "extra6":"",
+                "output":"1x Compass"
+        },
+        "information":{
+                "added":"0.31",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "durability1":"N/A",
+                "durability2":"",
+                "durability3":"",
+                "durability4":"",
+                "durability5":""  
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"10_compass"
+    },
+
+        {
+        "id":"11",
+        "name":"Map",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"",
+        "crafting":{
+                "input1":"2x Wood Planks",
+                "extra1":"You can use any type of wood",
+                "input2":"4x Sticks",
+                "extra2":"Crafted from two planks",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "input6":"",
+                "extra6":"",
+                "output":"1x Blank Map"
+        },
+        "information":{
+                "added":"0.31",
+                "renewable":"Yes",
+                "stackable":"No",
+                "durability1":"Wood: 60 uses",
+                "durability2":"Stone: 132 uses",
+                "durability3":"Iron: 251 uses",
+                "durability4":"Gold: 33 uses",
+                "durability5":"Diamond: 1562 uses"   
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"11_map"
+    },
+
+        {
+        "id":"12",
+        "name":"Clock",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"",
+        "crafting":{
+                "input1":"4x Gold Ingots",
+                "extra1":"Mined from a cave, then smelted",
+                "input2":"1x Redstone Dust",
+                "extra2":"Mined from a cave",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "input6":"",
+                "extra6":"",
+                "output":"1x Clock"
+        },
+        "information":{
+                "added":"0.31",
+                "renewable":"Yes",
+                "stackable":"No",
+                "durability1":"Wood: 60 uses",
+                "durability2":"Stone: 132 uses",
+                "durability3":"Iron: 251 uses",
+                "durability4":"Gold: 33 uses",
+                "durability5":"Diamond: 1562 uses"  
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"12_clock"
+    },
+
+        {
+        "id":"13",
+        "name":"Lead",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"",
+        "crafting":{
+                "input1":"6x Wood Planks",
+                "extra1":"You can use any type of wood",
+                "input2":"or 6x Iron Ingots",
+                "extra2":"Can only be open with redstone",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "input6":"",
+                "extra6":"",
+                "output":"3x Ladder"
+        },
+        "information":{
+                "added":"0.31",
+                "renewable":"Yes",
+                "stackable":"No",
+                "durability1":"Wood: 60 uses",
+                "durability2":"Stone: 132 uses",
+                "durability3":"Iron: 251 uses",
+                "durability4":"Gold: 33 uses",
+                "durability5":"Diamond: 1562 uses"  
+        },
+        "badge":{
+                "text":"Medium",
+                "colour":"medium"
+        },
+        "image":"13_lead"
+    }
+
+    ]
+}

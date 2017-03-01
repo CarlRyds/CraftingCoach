@@ -1,0 +1,894 @@
+{
+    "results":[
+
+    {
+        "id":"1",
+        "name":"Crafting Table",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Craft all the items you need",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"The Crafting Table (originally called Workbench) is one of the most essential blocks in Minecraft and is used to craft all the items you need. Crafting tables can also be used as a fuel in furnaces (smelting 1.5 items per block).",
+        "crafting":{
+                "input1":"4x Wood Planks",
+                "extra1":"You can use any type of wood",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"1x Crafting Table"
+        },
+        "information":{
+                "added":"Indev 0.31",
+                "transparency":"No",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No, but catches fire from lava",
+                "blast":"12.5",
+                "tool":"Broken with any tool, Axe is fastest"
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"1_craft_table"
+    },
+
+        {
+        "id":"2",
+        "name":"Furnace",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Smelt ores and cook food",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"The Furnace is a block used to smelt ores (such as iron or gold) to convert them into usable items. It can also be used to cook food items (such as fish, chicken, potato, etc). They can be crafted or found naturaly in villagers.",
+        "crafting":{
+                "input1":"8x Cobblestone",
+                "extra1":"Can be mined from a cave",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"1x Furnace"
+        },
+        "information":{
+                "added":"Indev 0.31",
+                "transparency":"Partial (when active)",
+                "luminance":"Yes, 13 (when active)",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No",
+                "blast":"17.5",
+                "tool":"Mined with pickaxe"     
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"2_furnace"
+    },
+
+        {
+        "id":"3",
+        "name":"Chest",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Store all your items",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"The chest is a block that stores items inside it (breaking a chest drops the chest and all the items). Placing two chests next to eachother creates a double chest. Can be obtained by crafting or by breaking existing chests.",
+        "crafting":{
+                "input1":"8x Wood Planks",
+                "extra1":"You can use any type of wood",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"1x Chest"
+        },
+        "information":{
+                "added":"Indev 0.31",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No",
+                "blast":"12.5",
+                "tool":"Broken with any tool, Axe is fastest"   
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"3_chest"
+    },
+        
+        {
+        "id":"4",
+        "name":"Shulker Box",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Store and transport items",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"A Shulker Box is a block that stores items inside it. Unlike a chest which drop all its items when broken, a Shulker Box keeps the items inside it, allowing the player to transport the items. Can also be dyed any colour.",
+        "crafting":{
+                "input1":"2x Shulker Shell",
+                "extra1":"Droped by Shulkers (in End cities)",
+                "input2":"1x Chest",
+                "extra2":"Made from eight Wood Planks",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"1x Shulker Box"
+        },
+        "information":{
+                "added":"1.11",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"No",
+                "stackable":"No",
+                "flammable":"No",
+                "blast":"30",
+                "tool":"Broken with any tool, Pickaxe is fastest"     
+        },
+        "badge":{
+                "text":"Hard",
+                "colour":"hard"
+        },
+        "image":"4_shulker"
+    },
+
+        {
+        "id":"5",
+        "name":"Bed",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Sleep through the night",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"A bed is an item (takes up two blocks), it allows the player to sleep through the night or reset the players spawn point (if the bed is missing or obstructed, the player will respawn at the original spawn point of the world).",
+        "crafting":{
+                "input1":"3x Wood Planks",
+                "extra1":"You can use any type of wood",
+                "input2":"3x Wool",
+                "extra2":"You can use any colour of wool",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"1x Bed"
+        },
+        "information":{
+                "added":"Beta 1.3",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"No",
+                "flammable":"No, but catches fire from lava",
+                "blast":"1",
+                "tool":"Broken with any tool, or no tool"       
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"5_bed"
+    },
+
+        {
+        "id":"6",
+        "name":"Torch",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Light your way in the dark",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"A Torch is an item that emits light in the area around it, stops mobs spawning and melt snow and ice within two blocks. A torch will break instantly and drop itself when broken with any tool, using the players hand or water.",
+        "crafting":{
+                "input1":"1x Coal",
+                "extra1":"Can be mined from coal ore",
+                "input2":"1x Stick",
+                "extra2":"Crafted from two planks",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"4x Torch"
+        },
+        "information":{
+                "added":"Indev 0.31",
+                "transparency":"Yes",
+                "luminance":"14",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No",
+                "blast":"0",
+                "tool":"Broken with any tool, or no tool"     
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"6_torch"
+    },
+
+        {
+        "id":"7",
+        "name":"Wood Planks",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Can be used in many recipes",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Wood Planks is a common block used in many crafting recipes. The texture resembles a network of planks, it comes in six different shades obtained from the different trees. They can be used for building, crafting or as fuel.",
+        "crafting":{
+                "input1":"1x Wood",
+                "extra1":"Any type of wood cut down from tree",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"4x Wood Planks"
+        },
+        "information":{
+                "added":"Indev 0.31",
+                "transparency":"No",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"Yes",
+                "blast":"15",
+                "tool":"Broken by hand or tool, Axe is fastest" 
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"7_planks"
+    },
+
+        {
+        "id":"8",
+        "name":"Stairs",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Elevate without jumping",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Stairs are blocks that allow players and mobs to change elevation without jumping. Stairs can be crafted or found naturally (e.g. villages). Note: Non-wood stairs drop themselves as items only if broken with a pickaxe.",
+        "crafting":{
+                "input1":"6x Wood Planks,",
+                "extra1":"You can use any type of wood",
+                "input2":"6x Cobblestone,",
+                "extra2":"Can be mined from a cave",
+                "input3":"6x Brick Blocks or",
+                "extra3":"Made from Brick (smelt clay)",
+                "input4":"6x Quartz",
+                "extra4":"Can be mined from the Nether",
+                "input5":"",
+                "extra5":"",
+                "output":"4x Stairs"
+        },
+        "information":{
+                "added":"Beta 1.6",
+                "transparency":"Partial (blocks light)",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"Wood: Yes, Stone: No",
+                "blast":"Wood: 15, Stone: 30",
+                "tool":"Broken with any tool, Axe is fastest"     
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"8_stairs"
+    },
+
+        {
+        "id":"9",
+        "name":"Sticks",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Can be used in many recipes",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"A stick is an item used for crafting many weapons, tools (such as bows, swords, axes, pickaxes, hoes, etc) and items (such as torches, signs, levers, ladders, item frames, etc). Sticks can be used in a furnace as fuel.",
+        "crafting":{
+                "input1":"2x Wood Planks",
+                "extra1":"You can use any type of wood",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"4x Sticks"
+        },
+        "information":{
+                "added":"Indev 0.31",
+                "transparency":"N/A",
+                "luminance":"N/A",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"N/A",
+                "blast":"N/A",
+                "tool":"N/A"   
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"9_sticks"
+    },
+
+        {
+        "id":"10",
+        "name":"Wooden Door",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Add a door to your house",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"A door is a block that can be used as a barrier to stop mobs from entering a building. Can be opened by hand, a lever, pressure plate or redstone. Doors can be obtained by crafting or found in villages and strongholds.",
+        "crafting":{
+                "input1":"6x Wood Planks or",
+                "extra1":"You can use any type of wood",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"3x Door"
+        },
+        "information":{
+                "added":"Alpha 1.0.1",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No, Catches fire from lava",
+                "blast":"15",
+                "tool":"Axe"    
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"10_door"
+    },
+
+        {
+        "id":"11",
+        "name":"Iron Door",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Add a door to your house",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"A door is a block that can be used as a barrier to stop mobs from entering a building. Iron doors can only be opened by a lever, pressure plate or redstone. Doors must be attached to a block beneath them",
+        "crafting":{
+                "input1":"6x Iron Ingots",
+                "extra1":"Smelt Iron Ore (Mined from caves)",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"3x Door"
+        },
+        "information":{
+                "added":"Alpha 1.0.1",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No",
+                "blast":"25",
+                "tool":"Pickaxe"    
+        },
+        "badge":{
+                "text":"Medium",
+                "colour":"medium"
+        },
+        "image":"11_door"
+    },
+
+        {
+        "id":"12",
+        "name":"Wooden Fence",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Useful for farms or gardens",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Fences are wall blocks that most mobs cannot jump over (without the Jump Boost status effect). Fences will automatically connect to fences or fence gates of the same type. Fences can be used to attach mobs with a lead.",
+        "crafting":{
+                "input1":"4x Wood Planks",
+                "extra1":"You can use any type of wood",
+                "input2":"2x Sticks",
+                "extra2":"Crafted from two planks",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"3x Fence"
+        },
+        "information":{
+                "added":"Alpha 1.0.17",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"Yes",
+                "blast":"15",
+                "tool":"Broken with any tool, Axe is fastest"     
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"11_fence"
+    },
+
+        {
+        "id":"13",
+        "name":"Nether Brick Fence",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Useful for farms or gardens",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Nether brick fences are wall blocks that most mobs cannot jump over (without the Jump Boost status effect). Nether brick fences can be used to attach mobs with a lead. Nether brick fences require a pickaxe to get it back.",
+        "crafting":{
+                "input1":"6x Nether Brick",
+                "extra1":"Mined from the Nether",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"6x Nether Fence"
+        },
+        "information":{
+                "added":"Alpha 1.0.17",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"No",
+                "stackable":"Yes (64)",
+                "flammable":"No",
+                "blast":"30",
+                "tool":"Broken with a pickaxe"     
+        },
+        "badge":{
+                "text":"Medium",
+                "colour":"medium"
+        },
+        "image":"12_nether_fence"
+    },
+
+        {
+        "id":"14",
+        "name":"Fence Gate",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Useful as a gate for a farm",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"A fence gate is a block that shares the functions of both the door and the fence. Can be opened by hand, a lever, pressure plate or redstone. A fence gate will automatically connect to fences of the same type.",
+        "crafting":{
+                "input1":"2x Wood Planks",
+                "extra1":"You can use any type of wood",
+                "input2":"4x Sticks",
+                "extra2":"Crafted from two planks",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"1x Fence Gate"
+        },
+        "information":{
+                "added":"Beta 1.8",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"Yes",
+                "blast":"15",
+                "tool":"Broken with any tool, Axe is fastest"     
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"13_gate"
+    },
+
+        {
+        "id":"15",
+        "name":"Cobblestone Wall",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Useful for farms or gardens",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Cobblestone walls are blocks that most mobs cannot jump over (without the Jump Boost status effect). They will automatically connect to other Cobblestone walls. These walls generate naturally in woodland mansions.",
+        "crafting":{
+                "input1":"6x Cobblestone",
+                "extra1":"Can be mined from a cave",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"6x Wall"
+        },
+        "information":{
+                "added":"1.4.2",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No",
+                "blast":"30",
+                "tool":"Brake with Pickaxe (or drops nothing)"     
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"14_wall"
+    },
+
+        {
+        "id":"16",
+        "name":"Iron Bars",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Useful for fireplaces or fence",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Iron Bars are blocks that most mobs cannot jump over (without the Jump Boost status effect). They will automatically connect to other Iron Bars. These bars generate naturally in strongholds, villages and igloos.",
+        "crafting":{
+                "input1":"6x Iron Ingot",
+                "extra1":"Smelt Iron Ore (Mined from caves)",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"16x Iron Bars"
+        },
+        "information":{
+                "added":"Beta 1.8",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No",
+                "blast":"30",
+                "tool":"Brake with Pickaxe (or drops nothing)"    
+        },
+        "badge":{
+                "text":"Medium",
+                "colour":"medium"
+        },
+        "image":"15_bars"
+    },
+
+
+        {
+        "id":"17",
+        "name":"Ladder",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Used for climbing blocks",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Ladders are wooden blocks used for climbing walls either vertically or horizontally, they can only be placed on the side of other blocks (cannot be placed on glass, leaves, ice, slabs, glowstone, or sea lanterns).",
+        "crafting":{
+                "input1":"7x Sticks",
+                "extra1":"Crafted from two planks",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"3x Ladder"
+        },
+        "information":{
+                "added":"Beta 1.4",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No",
+                "blast":"2",
+                "tool":"Broken with any tool, Axe is fastest"      
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"16_ladder"
+    },
+
+        {
+        "id":"18",
+        "name":"Wooden Trapdoor",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Cover a hole in the ground",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"A trapdoor is a solid, transparent block that can be used as an openable barrier. Can be opened by hand, a lever, pressure plate or redstone. Can be obtained by crafting or found leading to an igloo basement.",
+        "crafting":{
+                "input1":"6x Wood Planks",
+                "extra1":"You can use any type of wood",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"2x Trapdoor"
+        },
+        "information":{
+                "added":"Beta 1.6",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No, Catches fire from lava",
+                "blast":"15",
+                "tool":"Axe is fastest"   
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"17_trapdoor"
+    },
+
+        {
+        "id":"19",
+        "name":"Iron Trapdoor",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Cover a hole in the ground",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"A trapdoor is a solid, transparent block that can be used as an openable barrier. An iron trapdoor Can only be opened by a lever, pressure plate or redstone. A trapdoor's hinge will be on the block it is attached to.",
+        "crafting":{
+                "input1":"4x Iron Ingots",
+                "extra1":"Smelt Iron Ore (Mined from caves)",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"1x Trapdoor"
+        },
+        "information":{
+                "added":"Beta 1.6",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No",
+                "blast":"25",
+                "tool":"Pickaxe"   
+        },
+        "badge":{
+                "text":"Medium",
+                "colour":"medium"
+        },
+        "image":"18_trapdoor"
+    },
+
+        {
+        "id":"20",
+        "name":"Sign",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Place signs in your world",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Signs are non-solid blocks that can display up to four lines of text. Signs may be placed on the top or side of other blocks. Can be obtained by crafting or found to an igloo basement.",
+        "crafting":{
+                "input1":"6x Wood Planks",
+                "extra1":"You can use any type of wood",
+                "input2":"1x Stick",
+                "extra2":"Crafted from two planks",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"3x Sign"
+        },
+        "information":{
+                "added":"Indev 0.31",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (16)",
+                "flammable":"No (Yes in Pocket E)",
+                "blast":"5",
+                "tool":"Broken with any tool, Axe is fastest"      
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"18_sign"
+    },
+
+        {
+        "id":"21",
+        "name":"Item Frame",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Display items on your wall",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"An item frame is an entity that displays an item or block inside of it (useful in a storage room for example). If a map is placed in an item frame, it will show the map in the size of a item frame.",
+        "crafting":{
+                "input1":"8x Stick",
+                "extra1":"Crafted from two planks",
+                "input2":"1x Leather",
+                "extra2":"Dropped by cows",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"1x Item Frame"
+        },
+        "information":{
+                "added":"1.4.2",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No",
+                "blast":"Unknown",
+                "tool":"Broken with any tool, Axe is fastest"   
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"19_item"
+    },
+
+        {
+        "id":"22",
+        "name":"Painting",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Hang a painting on your wall",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Paintings are decorative entities that hang on walls. There are twenty six different paintings (ranging from 1×1 to 4x4 blocks in size), one is chosen at random when you place a painting.",
+        "crafting":{
+                "input1":"8x Stick",
+                "extra1":"Crafted from two planks",
+                "input2":"1x Wool",
+                "extra2":"Dropped by sheep",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"1x Painting"
+        },
+        "information":{
+                "added":"Indev 0.31",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No",
+                "blast":"Unknown",
+                "tool":"Broken with any tool, Axe is fastest"     
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"20_painting"
+    },
+
+        {
+        "id":"23",
+        "name":"Glass",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Mainly used for windows",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Glass is a fully transparent block the player can see through (glass can be dyed into stained glass). Most blocks cannot be placed on glass (torches and redstone torches can be placed on top of glass).",
+        "crafting":{
+                "input1":"1x Sand",
+                "extra1":"Smelt in a furnace",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"1x Glass"
+        },
+        "information":{
+                "added":"Alpha 1.0.5",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No",
+                "blast":"1.5",
+                "tool":"Any tool (lost unless you have silk touch)"       
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"21_glass"
+    },
+
+        {
+        "id":"24",
+        "name":"Glass Panes",
+        "disc_short_comment":"--------------LIMIT",
+        "disc_short":"Alternative to glass blocks",
+        "disc_long_comment":"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LIMIT",
+        "disc_long":"Glass panes are transparent blocks which can used as a much more efficient alternative to glass blocks as you get 16 glass panes from six glass blocks (you can also use stained glass to get stained glass panes).",
+        "crafting":{
+                "input1":"6x Glass",
+                "extra1":"",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"16x Glass Panes"
+        },
+        "information":{
+                "added":"Beta 1.8",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No",
+                "blast":"1.5",
+                "tool":"Any tool (lost unless you have silk touch)"    
+        },
+        "badge":{
+                "text":"Easy",
+                "colour":"easy"
+        },
+        "image":"22_pane"
+    }
+
+    ]
+}

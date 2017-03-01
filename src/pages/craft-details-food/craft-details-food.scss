@@ -1,0 +1,50 @@
+.craft-details-food {
+
+    background-image: url("../assets/img/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.input1:empty {
+    display: none;
+}
+
+.input2:empty {
+    display: none;
+}
+
+.input3:empty {
+    display: none;
+}
+
+.input4:empty {
+    display: none;
+}
+
+.input5:empty {
+    display: none;
+}
+
+.list-ios > .item-block:first-child {
+   border: 0;
+}
+
+.list-md > .item-block:first-child {
+   border: 0;
+}
+
+.list-ios {
+   border: 0;
+}
+
+.list-md {
+   border: 0;
+}
+
+.list-ios > .item-block:last-child{
+    border: 0;
+}
+
+.list-md > .item-block:last-child{
+    border: 0;
+}

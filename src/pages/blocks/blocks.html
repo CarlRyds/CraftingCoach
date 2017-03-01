@@ -1,0 +1,72 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>Crafting Coach</ion-title>
+    <ion-buttons end>
+      <button ion-button color="light" (click)="more()">
+        <ion-icon name="more"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content class="blocks">
+
+<ion-grid>
+
+<ion-row wrap responsive-sm>
+
+  <ion-col width-50 style="padding:0;margin:0;">
+
+  <ion-card>
+    <button ion-button (click)="overworld()">
+    <img src="assets/img/cat/blocks/overworld.jpg"/>
+   </button>
+  </ion-card>
+
+  </ion-col>
+
+  <ion-col width-50 style="padding:0;margin:0;">
+
+  <ion-card>
+    <button ion-button (click)="caves()">
+    <img src="assets/img/cat/blocks/caves.jpg"/>
+   </button>
+  </ion-card>
+
+  </ion-col>
+
+  <ion-col width-50 style="padding:0;margin:0;">
+
+  <ion-card>
+    <button ion-button (click)="ocean()">
+    <img src="assets/img/cat/blocks/ocean.jpg"/>
+   </button>
+  </ion-card>
+
+  </ion-col>
+
+  <ion-col width-50 style="padding:0;margin:0;">
+
+  <ion-card>
+    <button ion-button (click)="nether()">
+    <img src="assets/img/cat/blocks/nether.jpg"/>
+    </button>
+  </ion-card>
+
+  </ion-col>
+
+  <ion-col width-50 style="padding:0;margin:0;">
+
+  <ion-card>
+    <button ion-button (click)="end()">
+    <img src="assets/img/cat/blocks/end.jpg"/>
+    </button>
+  </ion-card>
+
+  </ion-col>
+
+</ion-row>
+
+</ion-grid>
+
+</ion-content>

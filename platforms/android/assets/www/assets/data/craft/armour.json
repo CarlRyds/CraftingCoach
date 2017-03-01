@@ -1,0 +1,129 @@
+{
+    "results":[
+
+    {
+        "id":"1",
+        "name":"Helmet",
+        "disc_short":"",
+        "disc_long":"",
+        "crafting":{
+                "input1":"1x Stick",
+                "extra1":"",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":""
+        },
+        "information":{
+                "added":"",
+                "transparency":"No",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No, but catches fire from lava",
+                "blast":"12.5",
+                "tool":"Broken with any tool, Axe is fastest"
+        },
+        "image":"1_helmet"
+    },
+
+        {
+        "id":"2",
+        "name":"Chestplate",
+        "disc_short":"",
+        "disc_long":"",
+        "crafting":{
+                "input1":"1x Stick",
+                "extra1":"",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":""
+        },
+        "information":{
+                "added":"",
+                "transparency":"No",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No, but catches fire from lava",
+                "blast":"12.5",
+                "tool":"Broken with any tool, Axe is fastest"
+        },
+        "image":"2_chestplate"
+    },
+
+        {
+        "id":"3",
+        "name":"Leggings",
+        "disc_short":"",
+        "disc_long":"",
+        "crafting":{
+                "input1":"1x Stick",
+                "extra1":"",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":""
+        },
+        "information":{
+                "added":"",
+                "transparency":"No",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No, but catches fire from lava",
+                "blast":"12.5",
+                "tool":"Broken with any tool, Axe is fastest"
+        },
+        "image":"3_leggings"
+    },
+
+        {
+        "id":"4",
+        "name":"Boots",
+        "disc_short":"",
+        "disc_long":"",
+        "crafting":{
+                "input1":"1x Stick",
+                "extra1":"",
+                "input2":"",
+                "extra2":"",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":""
+        },
+        "information":{
+                "added":"",
+                "transparency":"No",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No, but catches fire from lava",
+                "blast":"12.5",
+                "tool":"Broken with any tool, Axe is fastest"
+        },
+        "image":"4_boots"
+    }
+
+    ]
+}

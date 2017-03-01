@@ -1,0 +1,43 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>More Apps</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content class="apps" padding>
+
+<ion-list>
+
+  <ion-item (click)="currency()">
+    <ion-thumbnail item-left>
+      <img src="assets/img/other/apps/currency.png">
+    </ion-thumbnail>
+    <h2>Tap Tap Currency</h2>
+    <p>Currency converter for GBP,</p>
+    <p>USD, EURO, AUD, CAD and JPY</p>
+    <ion-icon item-right name="arrow-forward"></ion-icon>
+  </ion-item>
+
+  <ion-item (click)="weather()">
+    <ion-thumbnail item-left>
+      <img src="assets/img/other/apps/weather.png">
+    </ion-thumbnail>
+    <h2>Tap Tap Weather</h2>
+    <p>See weather in your current</p>
+    <p>location and other cities.</p>
+    <ion-icon item-right name="arrow-forward"></ion-icon>
+  </ion-item>
+
+  <ion-item (click)="slgquiz()">
+    <ion-thumbnail item-left>
+      <img src="assets/img/other/apps/slgquiz.png">
+    </ion-thumbnail>
+    <h2>Solids, Liquids and Gases</h2>
+    <p>Test your knowledge of solids,</p>
+    <p>liquids and gases with this quiz.</p>
+    <ion-icon item-right name="arrow-forward"></ion-icon>
+  </ion-item>
+
+</ion-list>
+
+</ion-content>

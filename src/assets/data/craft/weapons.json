@@ -1,0 +1,104 @@
+{
+    "results":[
+
+    {
+        "id":"1",
+        "name":"Sword",
+        "disc_short":"Attack mobs or other players",
+        "disc_long":"Swords are weapons. Pressing attack while holding a sword will increase your damage to both mobs and players. Upon damaging a mob or player, the sword's durability will decrease. Attacking a boat or a minecart with a sword will instantly destroy it and will not decrease the sword's durability.",
+        "crafting":{
+                "input1":"1x Stick",
+                "extra1":"",
+                "input2":"2x Wood Planks",
+                "extra2":"",
+                "input3":"or 2x Cobblestone",
+                "extra3":"",
+                "input4":"or 2x Gold or 2x Iron",
+                "extra4":"",
+                "input5":"or 2x Dimond",
+                "extra5":"",
+                "output":"1x Sword"
+        },
+        "information":{
+                "added":"",
+                "transparency":"No",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No, but catches fire from lava",
+                "blast":"12.5",
+                "tool":"Broken with any tool, Axe is fastest"
+        },
+        "image":"1_sword"
+    },
+
+        {
+        "id":"2",
+        "name":"Bow",
+        "disc_short":"A bow is a ranged weapon that fires arrows",
+        "disc_long":"Bows can be drawn back by using it. In order to use the bow, you must have at least one arrow in your inventory, or be in creative mode. While the bow is being charged or remains fully charged, the player is forced to move at sneak speed, unless they are riding a horse, or are in a minecart or boat at the time, which causes no speed decrease.",
+        "crafting":{
+                "input1":"3x Stick",
+                "extra1":"",
+                "input2":"3x String",
+                "extra2":"Dropped by spiders",
+                "input3":"",
+                "extra3":"",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"1x Bow"
+        },
+        "information":{
+                "added":"",
+                "transparency":"Partial (when active)",
+                "luminance":"Yes, 13 (when active)",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No",
+                "blast":"17.5",
+                "tool":"Mined with pickaxe"
+
+
+                
+        },
+        "image":"2_bow"
+    },
+
+        {
+        "id":"3",
+        "name":"Arrows",
+        "disc_short":"Arrows are ammunition for bows and dispensers.",
+        "disc_long":"An arrow's damage is determined by its speed. Arrows will also stick into objects they come in contact with and will remain there for exactly a minute before disappearing. Arrows can bounce off entities like minecarts and mobs immune to damage. Arrows shot through lava (but not fire) will catch on fire and show an appropriate animation until they pass through water.",
+        "crafting":{
+                "input1":"1x Flint",
+                "extra1":"Break gravel for a chance to collect",
+                "input2":"1x Stick",
+                "extra2":"",
+                "input3":"1x Feather",
+                "extra3":"Dropped by chickens",
+                "input4":"",
+                "extra4":"",
+                "input5":"",
+                "extra5":"",
+                "output":"1x Arrow"
+        },
+        "information":{
+                "added":"",
+                "transparency":"Yes",
+                "luminance":"No",
+                "renewable":"Yes",
+                "stackable":"Yes (64)",
+                "flammable":"No",
+                "blast":"12.5",
+                "tool":"Broken with any tool, Axe is fastest"
+
+
+                
+        },
+        "image":"3_arrows"
+    }
+
+    ]
+}

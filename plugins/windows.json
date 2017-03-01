@@ -1,0 +1,55 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-apprate": {
+            "PACKAGE_NAME": "Crafting Coach"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "Crafting Coach"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "Crafting Coach"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "Crafting Coach"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "Crafting Coach"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "Crafting Coach"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "Crafting Coach"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "Crafting Coach"
+        },
+        "cordova-plugin-admobpro": {
+            "PACKAGE_NAME": "Crafting Coach"
+        },
+        "com.xmartlabs.cordova.market": {
+            "PACKAGE_NAME": "Crafting Coach"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "Crafting Coach"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "Crafting Coach"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "Crafting Coach"
+        },
+        "cordova-plugin-extension": {
+            "PACKAGE_NAME": "Crafting Coach"
+        }
+    }
+}

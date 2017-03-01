@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget android-versionCode="300051" id="com.carlrydings.craftingguideforminecraft" version="3.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Crafting Coach</name>
+    <description>Learn how to craft items in Minecraft</description>
+    <author email="carl.ryds@gmail.com" href="http://carlrydings.com/">Carl Rydings</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <variable name="SENDER_ID" value="662031482505" />
+    <icon src="resources/android/icon/drawable-xhdpi-icon.png" />
+    <preference name="webviewbounce" value="false" />
+    <preference name="UIWebViewBounce" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="android-minSdkVersion" value="17" />
+    <preference name="android-targetSdkVersion" value="23" />
+    <preference name="BackupWebStorage" value="none" />
+    <preference name="SplashMaintainAspectRatio" value="true" />
+    <preference name="FadeSplashScreenDuration" value="300" />
+    <preference name="SplashShowOnlyFirstTime" value="false" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="15000" />
+</widget>

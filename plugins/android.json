@@ -1,0 +1,55 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.carlrydings.craftingguideforminecraft"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.carlrydings.craftingguideforminecraft"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.carlrydings.craftingguideforminecraft"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.carlrydings.craftingguideforminecraft"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.carlrydings.craftingguideforminecraft"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.carlrydings.craftingguideforminecraft"
+        },
+        "cordova-plugin-apprate": {
+            "PACKAGE_NAME": "com.carlrydings.craftingguideforminecraft"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.carlrydings.craftingguideforminecraft"
+        },
+        "com.xmartlabs.cordova.market": {
+            "PACKAGE_NAME": "com.carlrydings.craftingguideforminecraft"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "com.carlrydings.craftingguideforminecraft"
+        },
+        "cordova-plugin-admobpro": {
+            "PACKAGE_NAME": "com.carlrydings.craftingguideforminecraft"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.carlrydings.craftingguideforminecraft"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.carlrydings.craftingguideforminecraft"
+        },
+        "cordova-plugin-extension": {
+            "PACKAGE_NAME": "com.carlrydings.craftingguideforminecraft"
+        }
+    }
+}

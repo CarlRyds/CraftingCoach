@@ -1,0 +1,62 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>Crafting Coach</ion-title>
+      <ion-buttons end>
+      <button ion-button color="light" (click)="more()">
+        <ion-icon name="more"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content class="more">
+
+<ion-grid>
+
+<ion-row wrap responsive-sm>
+
+  <ion-col width-50 style="padding:0;margin:0;">
+
+  <ion-card>
+    <button ion-button (click)="mobs()">
+    <img src="assets/img/cat/more/mobs.png"/>
+   </button>
+  </ion-card>
+
+  </ion-col>
+
+  <ion-col width-50 style="padding:0;margin:0;">
+
+  <ion-card>
+    <button ion-button (click)="biomes()">
+    <img src="assets/img/cat/more/biomes.png"/>
+    </button>
+  </ion-card>
+
+  </ion-col>
+
+  <ion-col width-50 style="padding:0;margin:0;">
+
+  <ion-card>
+    <button ion-button (click)="commands()">
+    <img src="assets/img/cat/more/commands.png"/>
+    </button>
+  </ion-card>
+
+  </ion-col>
+
+  <ion-col width-50 style="padding:0;margin:0;">
+
+  <ion-card>
+    <button ion-button (click)="texture()">
+    <img src="assets/img/cat/more/texture.png"/>
+    </button>
+  </ion-card>
+
+  </ion-col>
+
+</ion-row>
+
+</ion-grid>
+  
+</ion-content>
